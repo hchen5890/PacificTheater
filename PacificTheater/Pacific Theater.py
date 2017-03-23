@@ -269,7 +269,3 @@ while not game.over:
     game.drawText("Zero Planes Destroyed " + str(KillCount), 200, 55)
     game.update(120)
 game.quit()
-
-#When 1st game loop starts, bullet is auto-fired once
-#Start screen, transition screen from game 1 -> game 2, end/credits/controls screen
-#Mid-screen transition doesn't work
