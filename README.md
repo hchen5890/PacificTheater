@@ -11,3 +11,6 @@
 <a href="https://www.python.org/downloads/">Download Python by clicking me</a>
 
 <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame">Download PyGame Wheel File by clicking me</a>
+
+<p> Confused on how to install Python 3.6 and PyGame?
+<a href="https://youtu.be/_GikMdhAhv0">Click on me to see how to install Python 3.6 and PyGame</a>
