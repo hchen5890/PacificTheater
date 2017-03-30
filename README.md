@@ -8,5 +8,4 @@
 
 # Resources:
 
-<p> Python download link </p>
-<a href="https://www.python.org/downloads/">Download Python</a>
+<a href="https://www.python.org/downloads/">Download Python by clicking me</a>
