@@ -9,3 +9,4 @@
 # Resources:
 
 <a href="https://www.python.org/downloads/">Download Python by clicking me</a>
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame">Download PyGame Wheel File by clicking me</a>
